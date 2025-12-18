@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "vis-timeline": "^8.5.0"
+  },
+  "devDependencies": {
+    "vite": "^7.3.0"
+  }
+}
