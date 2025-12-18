@@ -6,7 +6,7 @@ import "vis-timeline/styles/vis-timeline-graph2d.min.css";
 const container = document.getElementById("timeline");
 
 async function loadTimeline() {
-  const response = await fetch("/data/timeline.json");
+  const response = await fetch(import.meta.env.BASE_URL + "/data/timeline.json");
   const data = await response.json();
 
   const items = new DataSet(data);

@@ -1,0 +1,1017 @@
+[
+  {
+    "id": 1,
+    "content": "White Iverson",
+    "start": "2016-12-05",
+    "url": "https://open.spotify.com/track/6eT7xZZlB2mwyzJ2sUKG6w",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b27355404f712deb84d0650a4b41\" width=\"60\" /> <div> <strong>White Iverson</strong><br> Post Malone<br> <a href=\"https://open.spotify.com/track/6eT7xZZlB2mwyzJ2sUKG6w\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 2,
+    "content": "Breathe (In the Air)",
+    "start": "2017-01-19",
+    "url": "https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273db216ca805faf5fe35df4ee6\" width=\"60\" /> <div> <strong>Breathe (In the Air)</strong><br> Pink Floyd<br> <a href=\"https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 3,
+    "content": "Money",
+    "start": "2017-02-07",
+    "url": "https://open.spotify.com/track/0vFOzaXqZHahrZp6enQwQb",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273db216ca805faf5fe35df4ee6\" width=\"60\" /> <div> <strong>Money</strong><br> Pink Floyd<br> <a href=\"https://open.spotify.com/track/0vFOzaXqZHahrZp6enQwQb\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 4,
+    "content": "Time",
+    "start": "2017-01-16",
+    "url": "https://open.spotify.com/track/3TO7bbrUKrOSPGRTB5MeCz",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273db216ca805faf5fe35df4ee6\" width=\"60\" /> <div> <strong>Time</strong><br> Pink Floyd<br> <a href=\"https://open.spotify.com/track/3TO7bbrUKrOSPGRTB5MeCz\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 5,
+    "content": "Wish You Were Here",
+    "start": "2017-04-28",
+    "url": "https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273828e52cfb7bf22869349799e\" width=\"60\" /> <div> <strong>Wish You Were Here</strong><br> Pink Floyd<br> <a href=\"https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 6,
+    "content": "Closer to the Sun",
+    "start": "2017-04-03",
+    "url": "https://open.spotify.com/track/1UL8GkVAs6UcWF6BZ3DYZt",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b2736d07ac77f37c4e83f2d19972\" width=\"60\" /> <div> <strong>Closer to the Sun</strong><br> Slightly Stoopid<br> <a href=\"https://open.spotify.com/track/1UL8GkVAs6UcWF6BZ3DYZt\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 7,
+    "content": "Polish Girl",
+    "start": "2017-09-27",
+    "url": "https://open.spotify.com/track/5g3TDpgy1J1woAUVuj21EE",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273dec767e802882272db5598fd\" width=\"60\" /> <div> <strong>Polish Girl</strong><br> Neon Indian<br> <a href=\"https://open.spotify.com/track/5g3TDpgy1J1woAUVuj21EE\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 8,
+    "content": "Fade Away",
+    "start": "2017-02-22",
+    "url": "https://open.spotify.com/track/4QRWA5UqYU1st9aO0UfxOj",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273f0f7649257d4b99460929ced\" width=\"60\" /> <div> <strong>Fade Away</strong><br> Logic<br> <a href=\"https://open.spotify.com/track/4QRWA5UqYU1st9aO0UfxOj\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 9,
+    "content": "Everlong",
+    "start": "2016-09-20",
+    "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b2734bc9bcdbdc9ac34e37d8b6bb\" width=\"60\" /> <div> <strong>Everlong</strong><br> Foo Fighters<br> <a href=\"https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 10,
+    "content": "Nights",
+    "start": "2018-03-31",
+    "url": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526\" width=\"60\" /> <div> <strong>Nights</strong><br> Frank Ocean<br> <a href=\"https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 11,
+    "content": "Pink + White",
+    "start": "2018-03-31",
+    "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526\" width=\"60\" /> <div> <strong>Pink + White</strong><br> Frank Ocean<br> <a href=\"https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 12,
+    "content": "Chanel",
+    "start": "2018-03-31",
+    "url": "https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273a0b780c23fc3c19bd412b234\" width=\"60\" /> <div> <strong>Chanel</strong><br> Frank Ocean<br> <a href=\"https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 13,
+    "content": "Heart in the Pipes (KAUF Remix)",
+    "start": "2018-01-15",
+    "url": "https://open.spotify.com/track/0tauHCQrMIigu9GtuYqIw1",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b27346dc13b1c41445920552925d\" width=\"60\" /> <div> <strong>Heart in the Pipes (KAUF Remix)</strong><br> Tony Castles<br> <a href=\"https://open.spotify.com/track/0tauHCQrMIigu9GtuYqIw1\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 14,
+    "content": "Let It Go",
+    "start": "2016-09-20",
+    "url": "https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273b36f5e7575a59b21aef432f2\" width=\"60\" /> <div> <strong>Let It Go</strong><br> James Bay<br> <a href=\"https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 15,
+    "content": "What You Need",
+    "start": "2017-02-13",
+    "url": "https://open.spotify.com/track/3Hdd4HpmGNCB14wn9EmLbZ",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b27354a01535b21aed50a7bcb8d4\" width=\"60\" /> <div> <strong>What You Need</strong><br> Flume<br> <a href=\"https://open.spotify.com/track/3Hdd4HpmGNCB14wn9EmLbZ\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 16,
+    "content": "Midnight City",
+    "start": "2017-02-02",
+    "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b27390e9adff5f77dd1ff6d24e47\" width=\"60\" /> <div> <strong>Midnight City</strong><br> M83<br> <a href=\"https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 17,
+    "content": "Viva La Vida",
+    "start": "2022-11-11",
+    "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e\" width=\"60\" /> <div> <strong>Viva La Vida</strong><br> Coldplay<br> <a href=\"https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 18,
+    "content": "Sleepwalking",
+    "start": "2018-01-15",
+    "url": "https://open.spotify.com/track/1zdsOgv1hdGGGe9CK1QPY7",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273eff5e684bd079becefcae931\" width=\"60\" /> <div> <strong>Sleepwalking</strong><br> The Chain Gang Of 1974<br> <a href=\"https://open.spotify.com/track/1zdsOgv1hdGGGe9CK1QPY7\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 19,
+    "content": "Forever Heavy",
+    "start": "2019-01-15",
+    "url": "https://open.spotify.com/track/56e8Ac9LVRJf3SvVa9vVg0",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b27379b85661f1398042a2a3d114\" width=\"60\" /> <div> <strong>Forever Heavy</strong><br> Black Moth Super Rainbow<br> <a href=\"https://open.spotify.com/track/56e8Ac9LVRJf3SvVa9vVg0\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 20,
+    "content": "Like a Sundae",
+    "start": "2019-01-15",
+    "url": "https://open.spotify.com/track/3Z3pDk0enWeBASVyaUW5tD",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273bba7e858a17c6b862e28e514\" width=\"60\" /> <div> <strong>Like a Sundae</strong><br> Black Moth Super Rainbow<br> <a href=\"https://open.spotify.com/track/3Z3pDk0enWeBASVyaUW5tD\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 21,
+    "content": "Mr No One",
+    "start": "2020-07-28",
+    "url": "https://open.spotify.com/track/0Oq198r9V0r6mIB3UP85Ab",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273c43f9bfe4b0fcedbbebaf342\" width=\"60\" /> <div> <strong>Mr No One</strong><br> Black Moth Super Rainbow<br> <a href=\"https://open.spotify.com/track/0Oq198r9V0r6mIB3UP85Ab\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 22,
+    "content": "She",
+    "start": "2017-07-26",
+    "url": "https://open.spotify.com/track/4TFafM80ydMqIBJL6NOwrg",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273aae35fded594f5049653f87e\" width=\"60\" /> <div> <strong>She</strong><br> Cocainejesus<br> <a href=\"https://open.spotify.com/track/4TFafM80ydMqIBJL6NOwrg\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 23,
+    "content": "Washed Away",
+    "start": "2018-10-03",
+    "url": "https://open.spotify.com/track/6kzHdev57277EI4hniyGhK",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b2739a0e4e33ff4af67a9ce4a561\" width=\"60\" /> <div> <strong>Washed Away</strong><br> Eyes on the Shore<br> <a href=\"https://open.spotify.com/track/6kzHdev57277EI4hniyGhK\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 24,
+    "content": "Fortune (feat. Sam Lachow)",
+    "start": "2017-10-23",
+    "url": "https://open.spotify.com/track/0wXcDxK6pQbQSxgAs2UfP9",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b2733658c872308f8eb20d7c261d\" width=\"60\" /> <div> <strong>Fortune (feat. Sam Lachow)</strong><br> Lost Triibe<br> <a href=\"https://open.spotify.com/track/0wXcDxK6pQbQSxgAs2UfP9\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 25,
+    "content": "INTRO",
+    "start": "2017-03-22",
+    "url": "https://open.spotify.com/track/3WLKATFLnGpmDMnJBiAlnO",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273abf60462d2c407dace25c303\" width=\"60\" /> <div> <strong>INTRO</strong><br> Sam Gellaitry<br> <a href=\"https://open.spotify.com/track/3WLKATFLnGpmDMnJBiAlnO\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 26,
+    "content": "Hit 200 on the Dashboard",
+    "start": "2022-09-16",
+    "url": "https://open.spotify.com/track/1fr5Eew5tczvu8L9eBXNJJ",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273ce89ec59f0cd30bf65c5669e\" width=\"60\" /> <div> <strong>Hit 200 on the Dashboard</strong><br> Anxiety Attacks!<br> <a href=\"https://open.spotify.com/track/1fr5Eew5tczvu8L9eBXNJJ\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 27,
+    "content": "Shooting Star",
+    "start": "2018-12-19",
+    "url": "https://open.spotify.com/track/6N1TEzD2JkPO5GZ1Yfk54D",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273d797d2bf39d2d4f1c4884db5\" width=\"60\" /> <div> <strong>Shooting Star</strong><br> Anna Yvette<br> <a href=\"https://open.spotify.com/track/6N1TEzD2JkPO5GZ1Yfk54D\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 28,
+    "content": "Inchman",
+    "start": "2019-02-03",
+    "url": "https://open.spotify.com/track/04ToWpJsaPwm8ryFI8K4Ar",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273b32931fdae5fca7847c21323\" width=\"60\" /> <div> <strong>Inchman</strong><br> Jack Stauber's Micropop<br> <a href=\"https://open.spotify.com/track/04ToWpJsaPwm8ryFI8K4Ar\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 29,
+    "content": "Two Time",
+    "start": "2019-02-03",
+    "url": "https://open.spotify.com/track/7JTGwb6ug0z15F5roNLE0s",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273b32931fdae5fca7847c21323\" width=\"60\" /> <div> <strong>Two Time</strong><br> Jack Stauber's Micropop<br> <a href=\"https://open.spotify.com/track/7JTGwb6ug0z15F5roNLE0s\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 30,
+    "content": "My Curse",
+    "start": "2018-10-17",
+    "url": "https://open.spotify.com/track/6zKF4293k44ItKWJJgrhXv",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273cc5bb1a3f809896baf67dba4\" width=\"60\" /> <div> <strong>My Curse</strong><br> Killswitch Engage<br> <a href=\"https://open.spotify.com/track/6zKF4293k44ItKWJJgrhXv\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 31,
+    "content": "Send The Pain On",
+    "start": "2018-03-14",
+    "url": "https://open.spotify.com/track/5bcuFa5UQFnYxbJAiEBfTT",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b2730240f42875f25f00bc8fe50e\" width=\"60\" /> <div> <strong>Send The Pain On</strong><br> Chrome Sparks<br> <a href=\"https://open.spotify.com/track/5bcuFa5UQFnYxbJAiEBfTT\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 32,
+    "content": "Photosynthesis",
+    "start": "2020-12-03",
+    "url": "https://open.spotify.com/track/3DlgDXIYtnWtJKiB8bZQMv",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b27362cd6013f4b68f16bbce3666\" width=\"60\" /> <div> <strong>Photosynthesis</strong><br> Saba<br> <a href=\"https://open.spotify.com/track/3DlgDXIYtnWtJKiB8bZQMv\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 33,
+    "content": "XO Tour Llif3",
+    "start": "2018-07-02",
+    "url": "https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273f23aee9d3be9fcbca1bc6352\" width=\"60\" /> <div> <strong>XO Tour Llif3</strong><br> Lil Uzi Vert<br> <a href=\"https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 34,
+    "content": "Runaway (U & I)",
+    "start": "2021-02-21",
+    "url": "https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b27343e0a2330be85cf69506a286\" width=\"60\" /> <div> <strong>Runaway (U & I)</strong><br> Galantis<br> <a href=\"https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 35,
+    "content": "Do You Don't You",
+    "start": "2021-02-21",
+    "url": "https://open.spotify.com/track/55XVu6sTO9XyNEuu3OEijK",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b2731942942ae881543bc1dcb0ba\" width=\"60\" /> <div> <strong>Do You Don't You</strong><br> Haywyre<br> <a href=\"https://open.spotify.com/track/55XVu6sTO9XyNEuu3OEijK\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 36,
+    "content": "Empire Of Steel - Nightcore Mix",
+    "start": "2021-09-29",
+    "url": "https://open.spotify.com/track/6wilpoznNfw3cyFRDxUS8d",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273b4df90154be0005561006dcb\" width=\"60\" /> <div> <strong>Empire Of Steel - Nightcore Mix</strong><br> Essenger<br> <a href=\"https://open.spotify.com/track/6wilpoznNfw3cyFRDxUS8d\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 37,
+    "content": "Time Keeps on Slipping",
+    "start": "2019-04-04",
+    "url": "https://open.spotify.com/track/4a7iNsBx9sIDcqv0AdmFKn",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273210c8f856757abec0806209c\" width=\"60\" /> <div> <strong>Time Keeps on Slipping</strong><br> Deltron 3030<br> <a href=\"https://open.spotify.com/track/4a7iNsBx9sIDcqv0AdmFKn\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 38,
+    "content": "gone girl",
+    "start": "2019-08-31",
+    "url": "https://open.spotify.com/track/6G0FACzGN80Dj2v4ass5rq",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b2730e7473d3cf33aadd9790a06e\" width=\"60\" /> <div> <strong>gone girl</strong><br> iann dior<br> <a href=\"https://open.spotify.com/track/6G0FACzGN80Dj2v4ass5rq\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 39,
+    "content": "Build the Cities (Empire of Sound) [feat. Kerli]",
+    "start": "2019-04-11",
+    "url": "https://open.spotify.com/track/50ciUo89kUtN2CJoyeYBPK",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273562dc4ac5b06e0feb3437042\" width=\"60\" /> <div> <strong>Build the Cities (Empire of Sound) [feat. Kerli]</strong><br> Karma Fields<br> <a href=\"https://open.spotify.com/track/50ciUo89kUtN2CJoyeYBPK\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 40,
+    "content": "No Surprise",
+    "start": "2020-10-04",
+    "url": "https://open.spotify.com/track/0PoWNxhvrATP2RwAWpeMqv",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273e6e5d1fea0c8ffcb035e616f\" width=\"60\" /> <div> <strong>No Surprise</strong><br> NxxxxxS<br> <a href=\"https://open.spotify.com/track/0PoWNxhvrATP2RwAWpeMqv\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 41,
+    "content": "Itvara",
+    "start": "2018-12-07",
+    "url": "https://open.spotify.com/track/4697Qx2A8ZaFtpqLpK0z1D",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273f7e24116212801c8fccc8818\" width=\"60\" /> <div> <strong>Itvara</strong><br> Fractal<br> <a href=\"https://open.spotify.com/track/4697Qx2A8ZaFtpqLpK0z1D\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 42,
+    "content": "Home",
+    "start": "2019-08-06",
+    "url": "https://open.spotify.com/track/42NB7w0tDCag0mQpCtZe7Y",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b2735903e8e0ac75fea1ec096872\" width=\"60\" /> <div> <strong>Home</strong><br> Medasin<br> <a href=\"https://open.spotify.com/track/42NB7w0tDCag0mQpCtZe7Y\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 43,
+    "content": "115",
+    "start": "2022-01-02",
+    "url": "https://open.spotify.com/track/725NSbIej5lP3GfhLC7So3",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b2734bc9031ffb86dfa3cea86c52\" width=\"60\" /> <div> <strong>115</strong><br> Elena Siegman<br> <a href=\"https://open.spotify.com/track/725NSbIej5lP3GfhLC7So3\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 44,
+    "content": "Breadcrumbs",
+    "start": "2017-11-21",
+    "url": "https://open.spotify.com/track/7tmfrvAm84ntXtwbn1ybgt",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b2731f758fb11c7b0a5d6feb0695\" width=\"60\" /> <div> <strong>Breadcrumbs</strong><br> Deca<br> <a href=\"https://open.spotify.com/track/7tmfrvAm84ntXtwbn1ybgt\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 45,
+    "content": "Mammon's Mantra",
+    "start": "2019-03-29",
+    "url": "https://open.spotify.com/track/4pP59HlzHAwxIynUHCegzv",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273fc21b39bf92dcf9fe49b0eb8\" width=\"60\" /> <div> <strong>Mammon's Mantra</strong><br> Deca<br> <a href=\"https://open.spotify.com/track/4pP59HlzHAwxIynUHCegzv\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 46,
+    "content": "Skyward",
+    "start": "2019-04-05",
+    "url": "https://open.spotify.com/track/7aNjXvkgRXsbQnozn8hUjo",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273fc21b39bf92dcf9fe49b0eb8\" width=\"60\" /> <div> <strong>Skyward</strong><br> Deca<br> <a href=\"https://open.spotify.com/track/7aNjXvkgRXsbQnozn8hUjo\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 47,
+    "content": "Clay Pigeons",
+    "start": "2020-11-24",
+    "url": "https://open.spotify.com/track/1OoH6UVnrd2niMdi3tgznP",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b2730d7b443b79a1f4ee56b0d4d5\" width=\"60\" /> <div> <strong>Clay Pigeons</strong><br> Deca<br> <a href=\"https://open.spotify.com/track/1OoH6UVnrd2niMdi3tgznP\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 48,
+    "content": "Wish (feat. Trippie Redd) - Trippie Mix",
+    "start": "2025-03-17",
+    "url": "https://open.spotify.com/track/0c0YHn3DIQLl1opsQDd9kO",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273e71ccb392305961631deb63b\" width=\"60\" /> <div> <strong>Wish (feat. Trippie Redd) - Trippie Mix</strong><br> Diplo<br> <a href=\"https://open.spotify.com/track/0c0YHn3DIQLl1opsQDd9kO\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 49,
+    "content": "Taking A Walk",
+    "start": "2023-11-23",
+    "url": "https://open.spotify.com/track/6vSRW8utiYAdoCfJG2v86r",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273e71ccb392305961631deb63b\" width=\"60\" /> <div> <strong>Taking A Walk</strong><br> Trippie Redd<br> <a href=\"https://open.spotify.com/track/6vSRW8utiYAdoCfJG2v86r\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 50,
+    "content": "Hang High",
+    "start": "2024-11-11",
+    "url": "https://open.spotify.com/track/5M9SVZP15HDCElNLjfGaO4",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b27338a527e4130d9d16aeb33da2\" width=\"60\" /> <div> <strong>Hang High</strong><br> Dirty Art Club<br> <a href=\"https://open.spotify.com/track/5M9SVZP15HDCElNLjfGaO4\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 51,
+    "content": "Halo",
+    "start": "2024-01-23",
+    "url": "https://open.spotify.com/track/6W80Bn3OEgZsM0fY1F4VQl",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273da3853e92c307ce94880d738\" width=\"60\" /> <div> <strong>Halo</strong><br> 49bags<br> <a href=\"https://open.spotify.com/track/6W80Bn3OEgZsM0fY1F4VQl\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 52,
+    "content": "Profile",
+    "start": "2023-04-05",
+    "url": "https://open.spotify.com/track/5XgJE7hCj8u5RO32wRWCQl",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273e6562ded1c0f7777c78d55e3\" width=\"60\" /> <div> <strong>Profile</strong><br> Italian Leather<br> <a href=\"https://open.spotify.com/track/5XgJE7hCj8u5RO32wRWCQl\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 53,
+    "content": "Toxic",
+    "start": "2025-11-10",
+    "url": "https://open.spotify.com/track/4wwD3oDqVM5QTIL4ILPHiQ",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273f07bc7d5b59e9d11dcfea67b\" width=\"60\" /> <div> <strong>Toxic</strong><br> YAWNS<br> <a href=\"https://open.spotify.com/track/4wwD3oDqVM5QTIL4ILPHiQ\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 54,
+    "content": "VOICES (feat. XXXTENTACION)",
+    "start": "2025-11-12",
+    "url": "https://open.spotify.com/track/2Yr2BzqNDpIh0YQcnFqM09",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273a5d0554e895c134a0f6e981e\" width=\"60\" /> <div> <strong>VOICES (feat. XXXTENTACION)</strong><br> Skye<br> <a href=\"https://open.spotify.com/track/2Yr2BzqNDpIh0YQcnFqM09\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 55,
+    "content": "Shadow",
+    "start": "2023-09-17",
+    "url": "https://open.spotify.com/track/1aPlEVh0l7KOTG5UWeE5kj",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273f2f01e73f058ae0913d4f4a8\" width=\"60\" /> <div> <strong>Shadow</strong><br> AMAG<br> <a href=\"https://open.spotify.com/track/1aPlEVh0l7KOTG5UWeE5kj\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 56,
+    "content": "Talkback",
+    "start": "2023-04-04",
+    "url": "https://open.spotify.com/track/616rALOBxvc3bbp38iiud5",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b2730c64497123f4330a06d6f610\" width=\"60\" /> <div> <strong>Talkback</strong><br> 6LACK<br> <a href=\"https://open.spotify.com/track/616rALOBxvc3bbp38iiud5\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 57,
+    "content": "WINGZ",
+    "start": "2025-11-12",
+    "url": "https://open.spotify.com/track/7evQqGTWfKz8hIHzLVzneT",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b2732b0d34c893adcd610852e621\" width=\"60\" /> <div> <strong>WINGZ</strong><br> Zaia<br> <a href=\"https://open.spotify.com/track/7evQqGTWfKz8hIHzLVzneT\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 58,
+    "content": "Tomorrow",
+    "start": "2023-10-28",
+    "url": "https://open.spotify.com/track/0vSVZNYV5m0KQumbpikoxh",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b27379339b12deb8e5e16a8be298\" width=\"60\" /> <div> <strong>Tomorrow</strong><br> SoLonely<br> <a href=\"https://open.spotify.com/track/0vSVZNYV5m0KQumbpikoxh\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 59,
+    "content": "RAIN.",
+    "start": "2023-09-12",
+    "url": "https://open.spotify.com/track/5oU4rCC8Rt9VSvR6gh9SKs",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273ab77a09120193d0efc3b2f4c\" width=\"60\" /> <div> <strong>RAIN.</strong><br> Ayce Comet<br> <a href=\"https://open.spotify.com/track/5oU4rCC8Rt9VSvR6gh9SKs\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 60,
+    "content": "Too Busy Dreaming",
+    "start": "2024-07-10",
+    "url": "https://open.spotify.com/track/50MzqlXY2o7qSA2HjdCFk2",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273e9462d581f58d83f9a63cdc9\" width=\"60\" /> <div> <strong>Too Busy Dreaming</strong><br> Kiremi<br> <a href=\"https://open.spotify.com/track/50MzqlXY2o7qSA2HjdCFk2\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 61,
+    "content": "Don't Know How To Love",
+    "start": "2024-05-31",
+    "url": "https://open.spotify.com/track/70c0sLbylyeMCUv6w1EblN",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273e293eeaf84474d849ea24e69\" width=\"60\" /> <div> <strong>Don't Know How To Love</strong><br> Daniel Javan<br> <a href=\"https://open.spotify.com/track/70c0sLbylyeMCUv6w1EblN\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 62,
+    "content": "TILL I DIE",
+    "start": "2024-07-27",
+    "url": "https://open.spotify.com/track/6HseMEzSf4mxnUem0O1hJp",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b2731ead721047fe46af3ae59eef\" width=\"60\" /> <div> <strong>TILL I DIE</strong><br> SXMPRA<br> <a href=\"https://open.spotify.com/track/6HseMEzSf4mxnUem0O1hJp\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 63,
+    "content": "run",
+    "start": "2024-06-21",
+    "url": "https://open.spotify.com/track/66XV7bXEsfEtsG8wk1wLcu",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b27352c37cc902facd6c6384ff9c\" width=\"60\" /> <div> <strong>run</strong><br> Ocin<br> <a href=\"https://open.spotify.com/track/66XV7bXEsfEtsG8wk1wLcu\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 64,
+    "content": "last night",
+    "start": "2024-10-11",
+    "url": "https://open.spotify.com/track/0aECSjhjGczeMtbp0BsHiS",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273d3819e22a55b964c54e5f714\" width=\"60\" /> <div> <strong>last night</strong><br> cryoutloud<br> <a href=\"https://open.spotify.com/track/0aECSjhjGczeMtbp0BsHiS\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 65,
+    "content": "i want to go with u",
+    "start": "2024-09-09",
+    "url": "https://open.spotify.com/track/07fTt6DByvw2bACTaJnDrc",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273ee5363b5359e9c219e0ef5ca\" width=\"60\" /> <div> <strong>i want to go with u</strong><br> I'm Geist<br> <a href=\"https://open.spotify.com/track/07fTt6DByvw2bACTaJnDrc\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 66,
+    "content": "Burnout",
+    "start": "2024-10-08",
+    "url": "https://open.spotify.com/track/5zI3E8ApibT18COvEK2aCP",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273ce94d48e7902bc809656bb88\" width=\"60\" /> <div> <strong>Burnout</strong><br> Sorry X<br> <a href=\"https://open.spotify.com/track/5zI3E8ApibT18COvEK2aCP\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 67,
+    "content": "Bad Asthma",
+    "start": "2024-01-04",
+    "url": "https://open.spotify.com/track/6aD1YIu89dZYZDXWSqjRiQ",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273f9293bcc7c61d390fd9a70c4\" width=\"60\" /> <div> <strong>Bad Asthma</strong><br> Kill Xavi<br> <a href=\"https://open.spotify.com/track/6aD1YIu89dZYZDXWSqjRiQ\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 68,
+    "content": "PONY",
+    "start": "2024-02-11",
+    "url": "https://open.spotify.com/track/23Od9x0zb4AMbOap7x7K22",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273b688a5440fa134a2e0179e86\" width=\"60\" /> <div> <strong>PONY</strong><br> Aries<br> <a href=\"https://open.spotify.com/track/23Od9x0zb4AMbOap7x7K22\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 69,
+    "content": "POPTHATRUNK",
+    "start": "2023-10-21",
+    "url": "https://open.spotify.com/track/4BLbZo3DCqQXMzogWV1GNP",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273629fb93e6332cdb8774c9676\" width=\"60\" /> <div> <strong>POPTHATRUNK</strong><br> 1nonly<br> <a href=\"https://open.spotify.com/track/4BLbZo3DCqQXMzogWV1GNP\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 70,
+    "content": "We Lost Our Way",
+    "start": "2024-03-09",
+    "url": "https://open.spotify.com/track/4GBWMLojEsgtGILlwhTtFV",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b2738cd738b21bec0b7de92088af\" width=\"60\" /> <div> <strong>We Lost Our Way</strong><br> Paris Shadows<br> <a href=\"https://open.spotify.com/track/4GBWMLojEsgtGILlwhTtFV\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 71,
+    "content": "TOO BAD",
+    "start": "2025-10-09",
+    "url": "https://open.spotify.com/track/26cYiAiCEhE6H6fNy3NqfF",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b2738936560d52a1c2d7e05128b3\" width=\"60\" /> <div> <strong>TOO BAD</strong><br> Sample God<br> <a href=\"https://open.spotify.com/track/26cYiAiCEhE6H6fNy3NqfF\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 72,
+    "content": "epithet",
+    "start": "2024-03-25",
+    "url": "https://open.spotify.com/track/54Pwmg0leTynWOCstlbnx1",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273a0ab385b6a0449fe99f4da2c\" width=\"60\" /> <div> <strong>epithet</strong><br> Nicolas Sales<br> <a href=\"https://open.spotify.com/track/54Pwmg0leTynWOCstlbnx1\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 73,
+    "content": "Fade",
+    "start": "2024-09-16",
+    "url": "https://open.spotify.com/track/1whQexqiIm2qbgDyfdt8dg",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b27330339f7858ca5b1a66e26210\" width=\"60\" /> <div> <strong>Fade</strong><br> Jynx<br> <a href=\"https://open.spotify.com/track/1whQexqiIm2qbgDyfdt8dg\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 74,
+    "content": "I see you in my dreams",
+    "start": "2024-07-14",
+    "url": "https://open.spotify.com/track/1AIYYE7D7uNU4KC0gEPtd7",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b2733a05067bb6e6d7369ab236a7\" width=\"60\" /> <div> <strong>I see you in my dreams</strong><br> DzivsY<br> <a href=\"https://open.spotify.com/track/1AIYYE7D7uNU4KC0gEPtd7\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 75,
+    "content": "SHRETTR",
+    "start": "2025-07-24",
+    "url": "https://open.spotify.com/track/5Kis5fGZax8eQBfjydjfmc",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b27382579981751be7688377bb2a\" width=\"60\" /> <div> <strong>SHRETTR</strong><br> Psychi<br> <a href=\"https://open.spotify.com/track/5Kis5fGZax8eQBfjydjfmc\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 76,
+    "content": "Missed Calls",
+    "start": "2025-09-01",
+    "url": "https://open.spotify.com/track/2kFhiZBYcBziK57oro6Mbt",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b2731369c7ed303b1e8b09c167b3\" width=\"60\" /> <div> <strong>Missed Calls</strong><br> Chris Miles<br> <a href=\"https://open.spotify.com/track/2kFhiZBYcBziK57oro6Mbt\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 77,
+    "content": "Hidden Souls",
+    "start": "2025-05-31",
+    "url": "https://open.spotify.com/track/2b3VM9hDGCEvObJ7AAMLyZ",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273b5ffa400623ddbf88a812f72\" width=\"60\" /> <div> <strong>Hidden Souls</strong><br> RONEN<br> <a href=\"https://open.spotify.com/track/2b3VM9hDGCEvObJ7AAMLyZ\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 78,
+    "content": "Until The Stars Collide",
+    "start": "2025-01-24",
+    "url": "https://open.spotify.com/track/6hgu6vLKhY0sq0VIafKMBy",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273d0066cbbd31223ed9e695333\" width=\"60\" /> <div> <strong>Until The Stars Collide</strong><br> DVRST<br> <a href=\"https://open.spotify.com/track/6hgu6vLKhY0sq0VIafKMBy\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 79,
+    "content": "this place is not for people anymore",
+    "start": "2025-05-27",
+    "url": "https://open.spotify.com/track/6ofp488HQGvmeXU5sLIUiS",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273403bbadd054a511535778367\" width=\"60\" /> <div> <strong>this place is not for people anymore</strong><br> Brahman<br> <a href=\"https://open.spotify.com/track/6ofp488HQGvmeXU5sLIUiS\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 80,
+    "content": "I SAW HIM IN THE METAVERSE HE IS A BITCH THERE TOO.",
+    "start": "2025-08-25",
+    "url": "https://open.spotify.com/track/5YlUuBa1ksvlWjqI9Uqmhu",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b2736593a6bc32ec83e85cbd91c7\" width=\"60\" /> <div> <strong>I SAW HIM IN THE METAVERSE HE IS A BITCH THERE TOO.</strong><br> Mikey The Magician<br> <a href=\"https://open.spotify.com/track/5YlUuBa1ksvlWjqI9Uqmhu\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 81,
+    "content": "Raingurl",
+    "start": "2025-09-12",
+    "url": "https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273e6eb6a66ed4426f5cb6c4d9a\" width=\"60\" /> <div> <strong>Raingurl</strong><br> Yaeji<br> <a href=\"https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 82,
+    "content": "Diva",
+    "start": "2025-10-01",
+    "url": "https://open.spotify.com/track/52QRHYcLnwQyDefV3zCdAk",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273ae609b8c999115ee9332a959\" width=\"60\" /> <div> <strong>Diva</strong><br> ILYAdrian<br> <a href=\"https://open.spotify.com/track/52QRHYcLnwQyDefV3zCdAk\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 83,
+    "content": "Netrunner",
+    "start": "2025-02-27",
+    "url": "https://open.spotify.com/track/57nFKa6zyyRzvhKYsBRbzw",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b27328583df9e2cf7c6d85823685\" width=\"60\" /> <div> <strong>Netrunner</strong><br> SLIGHT<br> <a href=\"https://open.spotify.com/track/57nFKa6zyyRzvhKYsBRbzw\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 84,
+    "content": "Tangerines",
+    "start": "2018-04-10",
+    "url": "https://open.spotify.com/track/62EbqzVq9bQbsEOiv1IZ9f",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b2732aea2e6ef1546196352d41a6\" width=\"60\" /> <div> <strong>Tangerines</strong><br> SLIGHT<br> <a href=\"https://open.spotify.com/track/62EbqzVq9bQbsEOiv1IZ9f\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 85,
+    "content": "SOMETIMES...",
+    "start": "2018-04-25",
+    "url": "https://open.spotify.com/track/1PuVGzfZU4lXZPkoTINgU0",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b2732aea2e6ef1546196352d41a6\" width=\"60\" /> <div> <strong>SOMETIMES...</strong><br> SLIGHT<br> <a href=\"https://open.spotify.com/track/1PuVGzfZU4lXZPkoTINgU0\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 86,
+    "content": "Jasco",
+    "start": "2025-11-21",
+    "url": "https://open.spotify.com/track/2ft5DQtntkEdw3sQL7hQHO",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b2730bd5e7cce9765c2ef519424e\" width=\"60\" /> <div> <strong>Jasco</strong><br> Sepultura<br> <a href=\"https://open.spotify.com/track/2ft5DQtntkEdw3sQL7hQHO\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 87,
+    "content": "Here If You Need Me",
+    "start": "2025-02-28",
+    "url": "https://open.spotify.com/track/3OzIgVhfvODFh5hm8slmJO",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273d6fd2bdb41ef09b15cfccf71\" width=\"60\" /> <div> <strong>Here If You Need Me</strong><br> MASN<br> <a href=\"https://open.spotify.com/track/3OzIgVhfvODFh5hm8slmJO\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 88,
+    "content": "Don't Talk",
+    "start": "2025-02-28",
+    "url": "https://open.spotify.com/track/3mXjVkMtEqWZ2iMHYtincz",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273f618dc8c719b7251f4a0f407\" width=\"60\" /> <div> <strong>Don't Talk</strong><br> MASN<br> <a href=\"https://open.spotify.com/track/3mXjVkMtEqWZ2iMHYtincz\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 89,
+    "content": "BLAZIKEN",
+    "start": "2025-08-29",
+    "url": "https://open.spotify.com/track/7ckCQInsi2a6Cdye3ERFBQ",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b27369859f936efe9cb29d5e2747\" width=\"60\" /> <div> <strong>BLAZIKEN</strong><br> KXLLSWXTCH<br> <a href=\"https://open.spotify.com/track/7ckCQInsi2a6Cdye3ERFBQ\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 90,
+    "content": "cry for love",
+    "start": "2025-02-12",
+    "url": "https://open.spotify.com/track/6JXacV6HKsFfrBOPbHOhbs",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273a4d8e043f17833e8f1360fb2\" width=\"60\" /> <div> <strong>cry for love</strong><br> FINIVOID<br> <a href=\"https://open.spotify.com/track/6JXacV6HKsFfrBOPbHOhbs\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 91,
+    "content": "I hate it when somebody says your name",
+    "start": "2025-06-27",
+    "url": "https://open.spotify.com/track/5ZLwWlJGoTgHDgToFeG4tZ",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b27345576ad4ee69091af61c4dac\" width=\"60\" /> <div> <strong>I hate it when somebody says your name</strong><br> Sillage<br> <a href=\"https://open.spotify.com/track/5ZLwWlJGoTgHDgToFeG4tZ\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 92,
+    "content": "STRIGOI",
+    "start": "2025-06-18",
+    "url": "https://open.spotify.com/track/0FtmFwI2oER9fN1khz2rZl",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b2730c4b62ed2dbc5bb71a983f2b\" width=\"60\" /> <div> <strong>STRIGOI</strong><br> MOSSBACK<br> <a href=\"https://open.spotify.com/track/0FtmFwI2oER9fN1khz2rZl\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 93,
+    "content": "i thought we were past it",
+    "start": "2025-01-24",
+    "url": "https://open.spotify.com/track/439MGAoj7xH45di7vW4PZX",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273b4077e87ad2bd36552df3d46\" width=\"60\" /> <div> <strong>i thought we were past it</strong><br> Darko<br> <a href=\"https://open.spotify.com/track/439MGAoj7xH45di7vW4PZX\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 94,
+    "content": "GET AWAY FROM ME",
+    "start": "2025-03-19",
+    "url": "https://open.spotify.com/track/5jdmJKRDFhR8sRZOPR1i5u",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b2732f1bdd9616695cc74da2e1b9\" width=\"60\" /> <div> <strong>GET AWAY FROM ME</strong><br> Love Eli<br> <a href=\"https://open.spotify.com/track/5jdmJKRDFhR8sRZOPR1i5u\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 95,
+    "content": "DEAD! (feat. CVLTE)",
+    "start": "2025-02-20",
+    "url": "https://open.spotify.com/track/3KZunNnCc1YHmS3WSYN5Ol",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273b9d133611fa0683b6b40c682\" width=\"60\" /> <div> <strong>DEAD! (feat. CVLTE)</strong><br> TSS<br> <a href=\"https://open.spotify.com/track/3KZunNnCc1YHmS3WSYN5Ol\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 96,
+    "content": "KILLING ME",
+    "start": "2025-02-20",
+    "url": "https://open.spotify.com/track/0pUhjwRcebbqwe8RmICp6d",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273fee190fcd2d2fa9dec2adeb2\" width=\"60\" /> <div> <strong>KILLING ME</strong><br> TSS<br> <a href=\"https://open.spotify.com/track/0pUhjwRcebbqwe8RmICp6d\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 97,
+    "content": "abduct me",
+    "start": "2025-10-31",
+    "url": "https://open.spotify.com/track/1RhnxNcjGTuSYW4q1wgcRA",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b2732fe6aee38972cb05b80cfe08\" width=\"60\" /> <div> <strong>abduct me</strong><br> cr1tter<br> <a href=\"https://open.spotify.com/track/1RhnxNcjGTuSYW4q1wgcRA\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 98,
+    "content": "Make Believe",
+    "start": "2025-05-24",
+    "url": "https://open.spotify.com/track/3Ghgw4jv9Wf6X5PbbtP3i2",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b27326a5bb319815010d9cdf159f\" width=\"60\" /> <div> <strong>Make Believe</strong><br> Mother Mother<br> <a href=\"https://open.spotify.com/track/3Ghgw4jv9Wf6X5PbbtP3i2\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 99,
+    "content": "BE CAREFUL WHO YOU ADORE, LOVERB\u00d8Y",
+    "start": "2025-10-20",
+    "url": "https://open.spotify.com/track/2R7v3STyEGHSc6MfNlF74Y",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b2738815f47e429cf9b9c4df3bed\" width=\"60\" /> <div> <strong>BE CAREFUL WHO YOU ADORE, LOVERB\u00d8Y</strong><br> 4ria<br> <a href=\"https://open.spotify.com/track/2R7v3STyEGHSc6MfNlF74Y\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 100,
+    "content": "DIESEL",
+    "start": "2025-05-26",
+    "url": "https://open.spotify.com/track/62myDdLehDJdH4PG9gIt2x",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b27364b7a0a4cb0d08c354ff48db\" width=\"60\" /> <div> <strong>DIESEL</strong><br> Thornhill<br> <a href=\"https://open.spotify.com/track/62myDdLehDJdH4PG9gIt2x\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 101,
+    "content": "Ad Nauseam",
+    "start": "2025-01-14",
+    "url": "https://open.spotify.com/track/0GpdeSqCaYBy03afrFPppi",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273cc2df8e39787ad39e0faf23c\" width=\"60\" /> <div> <strong>Ad Nauseam</strong><br> Chief Kelly<br> <a href=\"https://open.spotify.com/track/0GpdeSqCaYBy03afrFPppi\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 102,
+    "content": "III",
+    "start": "2025-07-30",
+    "url": "https://open.spotify.com/track/2tQRE9yYharVr1XhY1cWxx",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273495fe24a62391c5876a54d80\" width=\"60\" /> <div> <strong>III</strong><br> Sleep Theory<br> <a href=\"https://open.spotify.com/track/2tQRE9yYharVr1XhY1cWxx\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 103,
+    "content": "bite my tongue - unplugged",
+    "start": "2025-04-10",
+    "url": "https://open.spotify.com/track/5blYfERgs0heQbrhgpQxWr",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273d655085b0b1d80e9e11c8488\" width=\"60\" /> <div> <strong>bite my tongue - unplugged</strong><br> wilt<br> <a href=\"https://open.spotify.com/track/5blYfERgs0heQbrhgpQxWr\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 104,
+    "content": "Obsolete",
+    "start": "2025-03-26",
+    "url": "https://open.spotify.com/track/0FCY8j3JRrZ2ynRUdMK9pS",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b2738eaa8ea5ed8b61cfeeda605f\" width=\"60\" /> <div> <strong>Obsolete</strong><br> Of Mice & Men<br> <a href=\"https://open.spotify.com/track/0FCY8j3JRrZ2ynRUdMK9pS\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 105,
+    "content": "Bloom - Bonus Track",
+    "start": "2025-09-15",
+    "url": "https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b27355bd9d9e0f50d28ddc9c1308\" width=\"60\" /> <div> <strong>Bloom - Bonus Track</strong><br> The Paper Kites<br> <a href=\"https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 106,
+    "content": "THE ANGELS ARE GONE",
+    "start": "2025-08-25",
+    "url": "https://open.spotify.com/track/51eiDxzFWzeKjqEvUz8w7l",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273318f594cc76caa39c815ac3d\" width=\"60\" /> <div> <strong>THE ANGELS ARE GONE</strong><br> Tropic Gold<br> <a href=\"https://open.spotify.com/track/51eiDxzFWzeKjqEvUz8w7l\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 107,
+    "content": "Die With A Smile",
+    "start": "2025-10-29",
+    "url": "https://open.spotify.com/track/2IQfC4tFnNAATHv6FMySKW",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273f3e69bac385efc53d7144d44\" width=\"60\" /> <div> <strong>Die With A Smile</strong><br> Her Last Sight<br> <a href=\"https://open.spotify.com/track/2IQfC4tFnNAATHv6FMySKW\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 108,
+    "content": "Jaded",
+    "start": "2025-09-12",
+    "url": "https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b2738515be38589bf130a2f535e1\" width=\"60\" /> <div> <strong>Jaded</strong><br> Spiritbox<br> <a href=\"https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 109,
+    "content": "Turn It Up",
+    "start": "2025-07-19",
+    "url": "https://open.spotify.com/track/12jJ4mKhg46jC26kluQD46",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273201c128a66d7128d15319ba5\" width=\"60\" /> <div> <strong>Turn It Up</strong><br> Eliminate<br> <a href=\"https://open.spotify.com/track/12jJ4mKhg46jC26kluQD46\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 110,
+    "content": "Want To Love - Just Raw",
+    "start": "2025-02-05",
+    "url": "https://open.spotify.com/track/4BL8uC2TSOebfjg8cWUyeO",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273c071ba47714d7070be3fdcea\" width=\"60\" /> <div> <strong>Want To Love - Just Raw</strong><br> Aloboi<br> <a href=\"https://open.spotify.com/track/4BL8uC2TSOebfjg8cWUyeO\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 111,
+    "content": "You",
+    "start": "2025-03-28",
+    "url": "https://open.spotify.com/track/6AQ5PTPmQ5f6ixw3PH6sCa",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273634f63e180bf70c5560481c0\" width=\"60\" /> <div> <strong>You</strong><br> LEO SZN<br> <a href=\"https://open.spotify.com/track/6AQ5PTPmQ5f6ixw3PH6sCa\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 112,
+    "content": "heaven is calling",
+    "start": "2025-04-09",
+    "url": "https://open.spotify.com/track/0OLmziH1GJSJYZ0ZWf5qXh",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273899f126f5976200faba0fc84\" width=\"60\" /> <div> <strong>heaven is calling</strong><br> Hax!<br> <a href=\"https://open.spotify.com/track/0OLmziH1GJSJYZ0ZWf5qXh\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 113,
+    "content": "Bruise",
+    "start": "2025-02-05",
+    "url": "https://open.spotify.com/track/6ivEQ2t5SyuPxwTT45Mtxn",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273df2238ed479b55d2f8294f57\" width=\"60\" /> <div> <strong>Bruise</strong><br> Know Good<br> <a href=\"https://open.spotify.com/track/6ivEQ2t5SyuPxwTT45Mtxn\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 114,
+    "content": "SPIDERS",
+    "start": "2025-02-04",
+    "url": "https://open.spotify.com/track/2JRBfB2f7VMVDJB8G2tBVR",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b27300385bca1d61bc546a6bfdd7\" width=\"60\" /> <div> <strong>SPIDERS</strong><br> Kami<br> <a href=\"https://open.spotify.com/track/2JRBfB2f7VMVDJB8G2tBVR\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 115,
+    "content": "Saccharine",
+    "start": "2025-03-24",
+    "url": "https://open.spotify.com/track/1NiPI7ATyw4ZwI2b858XrT",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273927dc6164be7b5c29866b355\" width=\"60\" /> <div> <strong>Saccharine</strong><br> VIOLENT VIRA<br> <a href=\"https://open.spotify.com/track/1NiPI7ATyw4ZwI2b858XrT\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 116,
+    "content": "montagem hyperexplosiva - Sped Up",
+    "start": "2025-10-01",
+    "url": "https://open.spotify.com/track/1kCK0pLhrJk0o2TscUhrCG",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273b4a76c6667ef5e1db3d1f4df\" width=\"60\" /> <div> <strong>montagem hyperexplosiva - Sped Up</strong><br> dashie<br> <a href=\"https://open.spotify.com/track/1kCK0pLhrJk0o2TscUhrCG\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 117,
+    "content": "I Really Want to Stay at Your House",
+    "start": "2025-09-11",
+    "url": "https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273a91a5b301baac1f46e6f30eb\" width=\"60\" /> <div> <strong>I Really Want to Stay at Your House</strong><br> Rosa Walton<br> <a href=\"https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 118,
+    "content": "Violence - Original Mix",
+    "start": "2020-09-21",
+    "url": "https://open.spotify.com/track/31XtwSNrnxzSPlt2k6pAc6",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b2731f67b65f8dd05cb4c2a01ce6\" width=\"60\" /> <div> <strong>Violence - Original Mix</strong><br> Grimes<br> <a href=\"https://open.spotify.com/track/31XtwSNrnxzSPlt2k6pAc6\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 119,
+    "content": "Highway Broken",
+    "start": "2018-07-25",
+    "url": "https://open.spotify.com/track/6wsHR65d9fgGgX0scZgN6Q",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b27308824208baefa2bc301bdbae\" width=\"60\" /> <div> <strong>Highway Broken</strong><br> glue70<br> <a href=\"https://open.spotify.com/track/6wsHR65d9fgGgX0scZgN6Q\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 120,
+    "content": "Derezzed - From \"TRON: Legacy\"/Score",
+    "start": "2019-06-16",
+    "url": "https://open.spotify.com/track/5X4ojuZG2mZ68EcLyBQ1D3",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b27366919acb93950333962467f8\" width=\"60\" /> <div> <strong>Derezzed - From \"TRON: Legacy\"/Score</strong><br> Daft Punk<br> <a href=\"https://open.spotify.com/track/5X4ojuZG2mZ68EcLyBQ1D3\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 121,
+    "content": "My Voice",
+    "start": "2024-02-13",
+    "url": "https://open.spotify.com/track/5s7o4b3i3NI98A49ZahAxv",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b2731adf1eef12277e4bebc0913d\" width=\"60\" /> <div> <strong>My Voice</strong><br> cr1tter<br> <a href=\"https://open.spotify.com/track/5s7o4b3i3NI98A49ZahAxv\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 122,
+    "content": "Dangers Arms",
+    "start": "2023-11-16",
+    "url": "https://open.spotify.com/track/3tLibdiOfejQPipAHiyCCA",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b2731adf1eef12277e4bebc0913d\" width=\"60\" /> <div> <strong>Dangers Arms</strong><br> cr1tter<br> <a href=\"https://open.spotify.com/track/3tLibdiOfejQPipAHiyCCA\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 123,
+    "content": "Broken",
+    "start": "2018-05-28",
+    "url": "https://open.spotify.com/track/2BmCen4Ww7ps0EBbobxWsH",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273bed555b96b4fa5a99358fcca\" width=\"60\" /> <div> <strong>Broken</strong><br> Lund<br> <a href=\"https://open.spotify.com/track/2BmCen4Ww7ps0EBbobxWsH\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 124,
+    "content": "gone in the wind",
+    "start": "2023-08-25",
+    "url": "https://open.spotify.com/track/2AGGHrNoSPmqKzqm8422zk",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273386b123307e161e23e9c9301\" width=\"60\" /> <div> <strong>gone in the wind</strong><br> Roderick Porter<br> <a href=\"https://open.spotify.com/track/2AGGHrNoSPmqKzqm8422zk\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 125,
+    "content": "Even Flow",
+    "start": "2016-08-02",
+    "url": "https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b2732d0e5ab5bd2e234fbcffa3e0\" width=\"60\" /> <div> <strong>Even Flow</strong><br> Pearl Jam<br> <a href=\"https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 126,
+    "content": "Fire Doesn't Burn Itself",
+    "start": "2017-06-20",
+    "url": "https://open.spotify.com/track/2MivJKBsf8Urhe3T9p4GVx",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b27321bfa65c6a235d971d25ff52\" width=\"60\" /> <div> <strong>Fire Doesn't Burn Itself</strong><br> Sam Flax<br> <a href=\"https://open.spotify.com/track/2MivJKBsf8Urhe3T9p4GVx\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 127,
+    "content": "Wrong Side Of Heaven",
+    "start": "2016-10-22",
+    "url": "https://open.spotify.com/track/7nErzYSlYWbf9oetHig5DZ",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273856dfc3e3a9dc13e83e43cc4\" width=\"60\" /> <div> <strong>Wrong Side Of Heaven</strong><br> Five Finger Death Punch<br> <a href=\"https://open.spotify.com/track/7nErzYSlYWbf9oetHig5DZ\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 128,
+    "content": "Cyberhex",
+    "start": "2025-02-24",
+    "url": "https://open.spotify.com/track/2vNUATEUKbavRo2gMjHs2S",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b2733528a891d36d16d760cda271\" width=\"60\" /> <div> <strong>Cyberhex</strong><br> Motionless In White<br> <a href=\"https://open.spotify.com/track/2vNUATEUKbavRo2gMjHs2S\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 129,
+    "content": "ANYTHING > HUMAN",
+    "start": "2025-02-21",
+    "url": "https://open.spotify.com/track/5yqTTanlUcF6jHdM40wI7W",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273dd797a2f3253b16283cb2cc9\" width=\"60\" /> <div> <strong>ANYTHING > HUMAN</strong><br> Bad Omens<br> <a href=\"https://open.spotify.com/track/5yqTTanlUcF6jHdM40wI7W\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 130,
+    "content": "Purge",
+    "start": "2023-11-14",
+    "url": "https://open.spotify.com/track/2XNSk4Wcjfs6Yk9GDkQ4yt",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b27354571d1b17e2d48efb9b4f24\" width=\"60\" /> <div> <strong>Purge</strong><br> Noah Gault<br> <a href=\"https://open.spotify.com/track/2XNSk4Wcjfs6Yk9GDkQ4yt\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 131,
+    "content": "There Goes My Mind",
+    "start": "2023-07-23",
+    "url": "https://open.spotify.com/track/2N5xS8yA9NYU5UTduTpr2l",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273e05f3ae17934e587d257410d\" width=\"60\" /> <div> <strong>There Goes My Mind</strong><br> Derek Pope<br> <a href=\"https://open.spotify.com/track/2N5xS8yA9NYU5UTduTpr2l\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 132,
+    "content": "Bulletproof",
+    "start": "2023-01-13",
+    "url": "https://open.spotify.com/track/4mx0eNjjZUyOzfY3I4P9HD",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273629c63f71a129ddb4bc6474d\" width=\"60\" /> <div> <strong>Bulletproof</strong><br> Brennan Savage<br> <a href=\"https://open.spotify.com/track/4mx0eNjjZUyOzfY3I4P9HD\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 133,
+    "content": "VEINS",
+    "start": "2024-09-23",
+    "url": "https://open.spotify.com/track/2tLaSbVTqVT3cVJF7s0k93",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273a25fff7c657df1a0032a4182\" width=\"60\" /> <div> <strong>VEINS</strong><br> WesGhost<br> <a href=\"https://open.spotify.com/track/2tLaSbVTqVT3cVJF7s0k93\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 134,
+    "content": "FACELESS",
+    "start": "2023-12-28",
+    "url": "https://open.spotify.com/track/5c1motSBBOArks2PO1DEQ1",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273dbbe4df4111d82a3024e6fe3\" width=\"60\" /> <div> <strong>FACELESS</strong><br> WesGhost<br> <a href=\"https://open.spotify.com/track/5c1motSBBOArks2PO1DEQ1\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 135,
+    "content": "TEETH (feat. Diggy Graves)",
+    "start": "2024-05-11",
+    "url": "https://open.spotify.com/track/1IsOdvUcz8eoN1qgoNP1sC",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b27366a4b23d3941f9aff723f982\" width=\"60\" /> <div> <strong>TEETH (feat. Diggy Graves)</strong><br> WesGhost<br> <a href=\"https://open.spotify.com/track/1IsOdvUcz8eoN1qgoNP1sC\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 136,
+    "content": "PAPERCUTS",
+    "start": "2025-09-06",
+    "url": "https://open.spotify.com/track/2eOmiW5T455YYTxu5JRxgf",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273270e1fb7fe5e4bd324d2acca\" width=\"60\" /> <div> <strong>PAPERCUTS</strong><br> WesGhost<br> <a href=\"https://open.spotify.com/track/2eOmiW5T455YYTxu5JRxgf\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 137,
+    "content": "WITHDRAWALS",
+    "start": "2023-12-28",
+    "url": "https://open.spotify.com/track/7HTAXUpttMUtUyTR6PfqGy",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273f2d43f34fa99b9ee8c3c7f78\" width=\"60\" /> <div> <strong>WITHDRAWALS</strong><br> WesGhost<br> <a href=\"https://open.spotify.com/track/7HTAXUpttMUtUyTR6PfqGy\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 138,
+    "content": "Daisies",
+    "start": "2025-08-31",
+    "url": "https://open.spotify.com/track/6h10r4S3T3mlDS8dvvWYzK",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273098bb118ef4062ebcebd592f\" width=\"60\" /> <div> <strong>Daisies</strong><br> HARRY WAS HERE<br> <a href=\"https://open.spotify.com/track/6h10r4S3T3mlDS8dvvWYzK\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 139,
+    "content": "Panic!",
+    "start": "2025-02-14",
+    "url": "https://open.spotify.com/track/2Pcx7BRGzJEWvdyhpPjuoC",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273c1d0193fba6e5830a863f1f6\" width=\"60\" /> <div> <strong>Panic!</strong><br> HARRY WAS HERE<br> <a href=\"https://open.spotify.com/track/2Pcx7BRGzJEWvdyhpPjuoC\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 140,
+    "content": "Say Shit",
+    "start": "2024-06-24",
+    "url": "https://open.spotify.com/track/33J0xuuJ5vl3S40QGYyA1d",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b2733a7e0cea46c675ecf6502b62\" width=\"60\" /> <div> <strong>Say Shit</strong><br> HARRY WAS HERE<br> <a href=\"https://open.spotify.com/track/33J0xuuJ5vl3S40QGYyA1d\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 141,
+    "content": "stuck.",
+    "start": "2025-12-01",
+    "url": "https://open.spotify.com/track/5ouwTY5jKU8arK6u9e02Dw",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273898b5175a07b93a1cac5fe66\" width=\"60\" /> <div> <strong>stuck.</strong><br> HARRY WAS HERE<br> <a href=\"https://open.spotify.com/track/5ouwTY5jKU8arK6u9e02Dw\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 142,
+    "content": "the end.",
+    "start": "2025-02-07",
+    "url": "https://open.spotify.com/track/65iEXVHRkbm5pibetOFL4y",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273898b5175a07b93a1cac5fe66\" width=\"60\" /> <div> <strong>the end.</strong><br> HARRY WAS HERE<br> <a href=\"https://open.spotify.com/track/65iEXVHRkbm5pibetOFL4y\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 143,
+    "content": "& (Acoustic)",
+    "start": "2025-02-28",
+    "url": "https://open.spotify.com/track/6V924syI8OWxiyecskrRU7",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273ff52d3006c58497c5d28b858\" width=\"60\" /> <div> <strong>& (Acoustic)</strong><br> HARRY WAS HERE<br> <a href=\"https://open.spotify.com/track/6V924syI8OWxiyecskrRU7\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 144,
+    "content": "Stop This Train",
+    "start": "2025-04-28",
+    "url": "https://open.spotify.com/track/3E6iea9uEmB7gRru4lyP6h",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b273ac9fea717d5b78e73cbd89f6\" width=\"60\" /> <div> <strong>Stop This Train</strong><br> John Mayer<br> <a href=\"https://open.spotify.com/track/3E6iea9uEmB7gRru4lyP6h\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  },
+  {
+    "id": 145,
+    "content": "Before I Forget",
+    "start": "2018-10-17",
+    "url": "https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB",
+    "title": "<div style=\"display:flex; gap:10px; align-items:center;\"> <img src=\"https://i.scdn.co/image/ab67616d0000b2736b3463e7160d333ada4b175a\" width=\"60\" /> <div> <strong>Before I Forget</strong><br> Slipknot<br> <a href=\"https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB\" target=\"_blank\">Open in Spotify</a> </div> </div>"
+  }
+]
