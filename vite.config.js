@@ -1,7 +1,7 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "/spotify-timeline/",
+  base: "/Spotify-Autobiography-Timeline/",
   build: {
     outDir: "docs"
   }
